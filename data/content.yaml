@@ -1,0 +1,110 @@
+BasicInfo:
+  FirstName: Anuj
+  LastName: Sharma
+  Photo: https://avatars3.githubusercontent.com/u/22527880?s=460&u=27b31af266407d37a8ed8b9981fe9fb439511ad5&v=4
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +91 9729778862
+    - Icon: fas fa-envelope
+      Info: anujjangra25119@gmail.com
+    - Icon: fas fa-globe
+      Info: github.com/phoenixking25
+    - Icon: fas fa-map-marker-alt
+      Info: Delhi, India
+
+Profile: I’m an Open-Source enthusiast & graduate from Electronics and Communication Deptt, NIT Kurukshetra plus passionate about Kubernetes, Web Dev, DevOps & I enjoy learning new things.
+
+Experience:
+  - Employer: Udaan
+    Place: Bengaluru, India
+    Positions:
+      - Title: Product Engineer
+        Date: July 2020 - Present
+        Details:
+          - Pharma Tech Supply Chain.
+          - Work on Warehouse Management System.
+          - Developed Physical Stock Verification system and Troubleshooting Dashboards.
+        Badges: ['ReactJS', 'Kotlin', 'Jenkins', 'Kubernetes', 'Material UI', 'Grafana']
+  - Employer: Google Of Summer Code | CNCF
+    Place: Remote
+    Positions:
+      - Title: Student Developer
+        Date: May 2020 - Aug 2020
+        Details:
+          - Automation of Kubernetes Multi-Tenancy Benchmarks.
+          - Working Group-Multitenancy Kubernetes.
+        Badges: ['Go', 'Kubernetes', 'Cobra CLI Commander']
+  - Employer: Google Code-In | ScoreLabs
+    Place: Remote
+    Positions:
+      - Title: Mentor
+        Date: Oct 2018 - Dec 2018
+        Details:
+          - Responsible for assigning tasks, code review and guidance of students for Google Code-in 2018.
+        Badges: ['HTML', 'AngularJS', 'Python 3']
+  - Employer: nthExam
+    Place: Bengaluru, India
+    Positions:
+      - Title: Software Engineer Intern
+        Date: June 2018 - July 2018
+        Details:
+          - Student Platform using Angular 6.2 Upgraded the application from Angular 5.0 to Angular 6.2. Worked on authentication and authorization of the application, included social login to the application. It include various sub modules including practice set, bookmarking and recommendation based on client side socket.
+          - Micro Service REST API Developed microservice REST API using Express.js (Node.js) which provide the personalized content to client application.
+        Badges: ['Angular 6', 'NodeJS', 'Python']      
+  - Employer: Snow Day Calculator
+    Place: Remote
+    Positions:
+      - Title: Software Engineer Intern
+        Date: Oct 2017 - Nov 2018
+        Details:
+          - Developed a plugin to enable two way email sync using IMAP and rails for zammad.
+          - Made a web app that logs or maintain the things that user want to buy in future using Angular 4 and flask.
+          - Added creating todo feature in an ios app built using framework7 and php.
+          - Refurbished UI php code of www.snowdaycalulator.com.
+          - Made pre-bid analytics web app for www.snowdaycalculator.com.
+        Badges: ['jQuery', 'Ruby', 'php'] 
+
+Education:
+  - Course: Electronics and Communication Engineering
+    Place: National Institute of Technology, Kurukshetra
+    Date: Aug 2016 - May 2020
+    Details: Member of GAWDS, Microbus(Deptt. technical society)
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML
+      - Javascript
+      - CSS
+      - Kotlin
+      - SQL
+      - C++
+      - Bash
+      - PHP
+      - Golang
+      - Sql
+      - Typescript
+  - Family: Frameworks
+    Items:
+      - Django
+      - Flask
+      - React
+      - Angular
+      - Express
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - AWS
+      - Kubernetes
+
+Languages:
+  - Name: Hindi
+    Level: Native
+  - Name: English
+
+Interests:
+  - Sketching
+  - Anime
